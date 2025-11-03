@@ -17,3 +17,12 @@
     scroll-behavior: smooth;
   }
 }
+
+@layer utilities {
+  .text-gradient {
+    background: linear-gradient(135deg, rgb(37, 99, 235), rgb(249, 115, 22) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}
