@@ -45,7 +45,7 @@ function Highlights() {
         </p>
         <img
           className="w-full rounded-2xl mb-4"
-          src="../../public/img/chip-a18-pro.jpg"
+          src="/img/chip-a18-pro.jpg"
           alt="chip a18"
         />
 
