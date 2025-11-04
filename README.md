@@ -7,7 +7,7 @@ O projeto busca reproduzir a estética minimalista e elegante da Apple, com anim
 
 ## 🌐 Demonstração
 
-🔗 https://iphone-17-site-tales.vercel.app/
+🔗 https://iphone-17-site-eight.vercel.app/
 
 ---
 
